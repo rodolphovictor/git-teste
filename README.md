@@ -1,2 +1,2 @@
 # git-teste
-Aprendizado git e gihub
+Aprendizado git e github
